@@ -4,6 +4,8 @@
 
 I am a **Systems Engineering student** in my final year, dedicated to building scalable and high-performance web applications. While my professional core lies in web technologies, I am a versatile developer with a strong academic background and experience delivering projects across various fields, incorporating **Software Architecture** through a deep commitment to **Clean Code**, **SOLID** principles, and **Design Patterns**, a strong focus on **Algorithms** and Data Structures, and practical experience in **DevOps** workflows and modern CI/CD practices.
 
+I am a proactive learner, constantly sharpening my skills through **Platzi**, **YouTube**, and technical documentation. Additionally, I have a **B2 English level (approaching C1)**, enabling me to collaborate effectively in international teams.
+
 ### Tech Stack & Experience
 *Tools and technologies I have worked with in various projects:*
 
